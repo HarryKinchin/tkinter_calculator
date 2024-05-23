@@ -7,4 +7,5 @@ It allows the following operations:
 It also has an AC and Quit button
 
 The gui is as follows:
+
 ![image](https://github.com/HarryKinchin/tkinter_calculator/assets/170269003/cb68285b-24e7-4b83-8cd1-a35e78cc8995)
