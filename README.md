@@ -3,7 +3,7 @@ An attempt at a calculator made using the tkinter python library.
 
 The calculator allows for any float to be inputted
 It allows the following operations:
-  +, -, *, /, ^, √, MOD, DIV
+  +, -, *, /, ^, √, MOD, DIV. As well as brackets
 It also has an AC, Backspace, and Quit buttons
 
 The gui is as follows:
